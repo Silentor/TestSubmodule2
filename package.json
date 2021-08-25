@@ -1,0 +1,15 @@
+{
+	"name": "com.flexy.ui2",
+	"displayName": "Flexy UI2",
+	"version": "1.0.1",
+	"unity": "2018.1",
+	"description": "Flexy UI System base on MC-VMV framework",
+	"keywords": [
+		"ui",
+		"binding"
+	],
+	"category": "UI",
+	"author": {
+    	"name": "Flexy Framework"
+  	}
+}
